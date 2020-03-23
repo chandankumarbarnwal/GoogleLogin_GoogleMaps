@@ -36,14 +36,14 @@ return [
 
 
     'facebook' => [
-        'client_id' => '2786167878287554',         // Your GitHub Client ID
-        'client_secret' => '812c6e75724fd7add73080d18b9c1e19', // Your GitHub Client Secret
+        'client_id' => 'facebook_client_id',         // Your GitHub Client ID
+        'client_secret' => 'fb_secret_key', // Your GitHub Client Secret
         'redirect' => 'http://localhost:8000/login/facebook/callback',
     ],
 
     'google' => [
-        'client_id' => '161480143163-mpgo1cbp4g3l2lhq1e4junjs5dirkcor.apps.googleusercontent.com',         //project name dummy login
-        'client_secret' => 'P0dPKUhOvQH5A7RkwdKXO9Xl', // Your GitHub Client Secret
+        'client_id' => 'client_id',         //project name dummy login
+        'client_secret' => 'secret_key', // Your GitHub Client Secret
         'redirect' => 'http://localhost:8000/login/google/callback',
     ],
 

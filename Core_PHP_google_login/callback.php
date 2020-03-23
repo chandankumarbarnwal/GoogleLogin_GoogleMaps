@@ -27,8 +27,4 @@ $userData['picture'] = $user->picture;
 $_SESSION['user'] = $userData;
 header("location: userinfo.php")
 
-
-
-
-
 ?>
