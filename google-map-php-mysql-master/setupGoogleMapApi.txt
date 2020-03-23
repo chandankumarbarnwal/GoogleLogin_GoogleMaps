@@ -1,0 +1,11 @@
+1. Go to:
+	https://developers.google.com/
+
+2. Below find Google API Console and click
+
+3. Click left side credentials 
+
+4. Click create credentials, Click API key.
+
+5. Copy key and paste
+
